@@ -1,0 +1,1 @@
+class Leads1Model { }
