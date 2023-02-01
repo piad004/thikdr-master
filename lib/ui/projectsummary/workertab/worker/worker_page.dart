@@ -1,8 +1,5 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
 import 'package:thikdr/ui/projectsummary/workertab/worker/models/worker_item_model.dart';
 import 'package:thikdr/ui/projectsummary/workertab/worker/widgets/worker_item_widget.dart';
 import 'package:thikdr/utils/color_constant.dart';
